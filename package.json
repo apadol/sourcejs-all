@@ -1,0 +1,13 @@
+{
+  "name": "sourcejs-all",
+  "version": "0.1.0",
+  
+  "description": "Show all components on a signle page view",
+  "repository" : { 
+  	"type" : "git",
+  	"url" : "https://github.com/apadol/sourcejs-all"
+  },
+  "dependencies": {
+    "deep-extend": "^0.3.2"
+  }
+}
